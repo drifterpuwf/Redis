@@ -1,5 +1,5 @@
 # 2020-4-26
 # drifter
 
-python copy.py --source=redis-01:6379 --target=redis-02:6379 --databases=3:3 --spass="Pps@123456"  --tpass='Pps@1234'
+python redis-copy.py  --source=redis-01:6379 --target=redis-02:6379 --databases=3:3 --spass="Pps@123456"  --tpass='Pps@1234'
 
