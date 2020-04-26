@@ -330,6 +330,3 @@ if __name__ == "__main__":
         usage()
 
 
-
-
-python copy.py --source=r-bp15bvoxeee7ervjb.redis.rds.aliyuncs.com:6379 --target=r-bp133d2awwww6ec64.redis.rds.aliyuncs.com:6379 --databases=3:3 --spass="Pps@123456"  --tpass='Pps@1234'
